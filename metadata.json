@@ -1,0 +1,6 @@
+{
+  "name": "SmartSpend Tracker",
+  "description": "An elegant, modern personal finance tracker with natural language parsing and interactive weekly spending visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
